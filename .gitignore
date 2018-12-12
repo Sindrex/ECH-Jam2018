@@ -1,0 +1,32 @@
+#################################################################
+### Unity generated stuff #######################################
+#################################################################
+/ECH-Jam2018/[Ll]ibrary/
+/ECH-Jam2018/[Tt]emp/
+/ECH-Jam2018/[Oo]bj/
+/ECH-Jam2018/[Bb]uild/
+/ECH-Jam2018/[Bb]uilds/
+/ECH-Jam2018/Assets/AssetStoreTools*
+# Crash reports
+sysinfo.txt
+#################################################################
+### AssetGraph and generated AssetBundles #######################
+#################################################################
+/ECH-Jam2018/Assets/UnityEngine.AssetGraph/Cache/*
+/ECH-Jam2018/Assets/UnityEngine.AssetGraph/Cache.meta
+/ECH-Jam2018/Assets/StreamingAssets/AssetBundles/*
+/ECH-Jam2018/Assets/StreamingAssets/AssetBundles.meta
+#################################################################
+### Visual studio stuff #########################################
+#################################################################
+/ECH-Jam2018/.vs/
+*.suo
+*.suo.meta
+*.user
+*.user.meta
+*.userprefs
+*.userprefs.meta
+*.tmp
+*.tmp.meta
+*.csproj
+*.sln
